@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 # 🔭 I’m currently working on 
 - Increasing my serverside knowledge and skills for the future.
-- New up and coming Location baaed AR TCG With the working title: Laws of Martial Dao.
+- New up and coming Location based AR TCG With the working title: Laws of Martial Dao.
 # 🌱 I’m currently learning ...
 - Many different CS related skills from the College of ETSU.
 # 💬 Ask me about ...
